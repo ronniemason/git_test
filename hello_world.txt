@@ -1,2 +1,4 @@
 hello world, indeed!
 Adding another line to test Git from VSCode
+
+Fourth line of code! YAY!
