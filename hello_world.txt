@@ -1,1 +1,2 @@
 hello world, indeed!
+Adding another line to test Git from VSCode
